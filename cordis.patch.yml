@@ -1,0 +1,4 @@
+- insert:
+    - id: rwa-skills
+      name: '@local/rwa-skills'
+      config: {}

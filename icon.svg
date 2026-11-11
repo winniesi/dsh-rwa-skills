@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="RWA Toolbox">
+  <rect width="64" height="64" rx="14" fill="#1f6feb"/>
+  <rect x="15" y="16" width="30" height="32" rx="4" fill="#ffffff" opacity="0.96"/>
+  <rect x="20" y="22" width="20" height="3.4" rx="1.7" fill="#1f6feb"/>
+  <rect x="20" y="29" width="20" height="3.4" rx="1.7" fill="#7aa7f0"/>
+  <rect x="20" y="36" width="13" height="3.4" rx="1.7" fill="#7aa7f0"/>
+  <circle cx="45" cy="45" r="9.5" fill="#0b3d91" stroke="#ffffff" stroke-width="2"/>
+  <path d="M40.5 45h9M45 40.5v9" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
